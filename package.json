@@ -1,0 +1,26 @@
+{
+  "name": "gatsby-starter",
+  "version": "0.2.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "preview": "gatsby build && gatsby serve"
+  },
+  "dependencies": {
+    "babel-preset-gatsby": "^0.8.0",
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-react-helmet": "^3.10.0",
+    "gatsby-plugin-reflexjs": "^0.1.1",
+    "gatsby-plugin-robots-txt": "^1.5.5",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.1.0",
+    "react-photo-gallery": "^8.0.0",
+    "reflexjs": "^1.0.3",
+    "simple-react-lightbox": "^3.6.4",
+    "typeface-inter": "^1.1.13"
+  }
+}
