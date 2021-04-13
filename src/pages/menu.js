@@ -242,6 +242,12 @@ export default function Menupage() {
                                     <p>$3.50</p>
                                 </div>
                             </div>
+                            <div display="flex">
+                                <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                    <p>Raspberry Granola Bar</p>
+                                    <p>$4.50</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

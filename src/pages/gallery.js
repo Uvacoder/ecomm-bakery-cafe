@@ -7,18 +7,18 @@ import Gallery from "react-photo-gallery";
 
 const photos = [
     {
-        src: '/images/pastries.jpg',
-        width: 1,
-        height: 1
+        src: '/images/hero3.jpg',
+        width: 5,
+        height: 4
     },
     {
-        src: '/images/IMG_4343.jpg',
+        src: '/images/IMG_4359.jpg',
         width: 1800,
         height: 1200
     },
     {
-        src: '/images/IMG_7929.jpeg',
-        width: 3,
+        src: '/images/parisian.jpg',
+        width: 5,
         height: 4
     },
     {
@@ -37,17 +37,97 @@ const photos = [
         height: 1200
     },
     {
+        src: '/images/tiramisu.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/ChocolateMousseTower1.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/ChocolateCroissant.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/PrincessCake.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/CarrotCake2.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/ApricotAlmondPastry.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/PlumTart4.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/Napolean1.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/IMG_4343.jpg',
+        width: 1800,
+        height: 1200
+    },
+    {
+        src: '/images/IMG_7929.jpeg',
+        width: 3,
+        height: 4
+    },
+    {
+        src: '/images/FruitTart.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/cremebrulee.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/TheDenverQuiche.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/TurkeyandBrieSandwich.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/LemonMerenge.jpg',
+        width: 5,
+        height: 4
+    },
+    {
+        src: '/images/pastries.jpg',
+        width: 1,
+        height: 1
+    },
+    {
         src: '/images/IMG_4370.jpg',
         width: 1800,
         height: 1200
     },
     {
-        src: '/images/IMG_4362.jpg',
-        width: 1800,
-        height: 1200
+        src: '/images/AustrianHotChocolate.jpg',
+        width: 5000,
+        height: 4000
     },
     {
-        src: '/images/IMG_4359.jpg',
+        src: '/images/IMG_4362.jpg',
         width: 1800,
         height: 1200
     },
@@ -181,7 +261,7 @@ export default function GalleryPage() {
                 heading=""
             />
             {/* <SimpleReactLightbox> */}
-            <section>
+            <section pb="20">
                 <div variant="container">
                     {/* <SRLWrapper options={options}> */}
                     <Gallery photos={photos} direction={"column"} />
