@@ -148,7 +148,7 @@ export default function Menupage() {
                             </div>
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                    <p>Strudel</p>
+                                    <p>Apple Strudel</p>
                                     <p>$4.00</p>
                                 </div>
                             </div>
@@ -233,6 +233,12 @@ export default function Menupage() {
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Sugar Raisin</p>
+                                    <p>$3.50</p>
+                                </div>
+                            </div>
+                            <div display="flex">
+                                <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                    <p>German Pretzels</p>
                                     <p>$3.50</p>
                                 </div>
                             </div>
@@ -369,32 +375,190 @@ export default function Menupage() {
                     <div display="grid" col="1" gap="4|8">
                         <div py="6">
                             <h2 variant="text.menuheading" pb="8">
-                                Coffee
+                                Hot Coffee
                             </h2>
                             <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
-                                <div width="90vw|500px" mx="auto">
-                                    <p textAlign="center">
-                                        House Drip  •  Café Americano • Café Au Lait • Latte • Mocha
-                                        • Macchiato • Espresso • Cappuccino • Milky Way • Shot In The Dark •
-                                        Weisse Kuh • Austrian Hot Chocolate • Vanilla Ice
-                                        Blended • Cookies n Cream Ice Blended • Mocha Ice
-                                        Blended • Cotton Candy Ice Blended
-                                    </p>
+                                <div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>House Drip</p>
+                                            <p>$2.75</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Café Americano</p>
+                                            <p>$3.25</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Café Au Lait</p>
+                                            <p>$3.00</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Latte</p>
+                                            <p>$3.75</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Mocha</p>
+                                            <p>$4.00</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Macchiato</p>
+                                            <p>$3.25</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Espresso</p>
+                                            <p>$2.75</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Cappuccino</p>
+                                            <p>$3.75</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Milky Way</p>
+                                            <p>$3.75</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Shot In The Dark</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Weisse Kuh</p>
+                                            <p>$3.50</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Austrian Hot Chocolate</p>
+                                            <p>$3.75</p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                         <div py="6">
                             <h2 variant="text.menuheading" pb="8">
-                                Teas
+                                Cold Coffee
                             </h2>
-                            <div width="90vw|500px" mx="auto">
-                                <p textAlign="center" variant="text.menuitem">
-                                    Green Earl Grey • Tropical Green • Bombay Chai • Early Gray Lavender •
-                                    English Breakfast • Sweet Ginger Peach • Dragon Eye Oolong • Honeybush
-                                    Caramel • Golden Chamomile • Southern Mint
-                                </p>
+                            <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
+                                <div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced House Drip</p>
+                                            <p>$3.50</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced Cafe Americano</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced Latte</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced Mocha</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced Espresso</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced Milky Way</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced Shot In The Dark</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Iced Weisse Kuh</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
+                        <div py="6">
+                            <h2 variant="text.menuheading" pb="8">
+                                Ice Blended
+                            </h2>
+                            <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
+                                <div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Vanilla Ice Blended</p>
+                                            <p>$3.50</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Cookies n Cream Ice Blended</p>
+                                            <p>$3.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Mocha Ice Blended</p>
+                                            <p>$3.75</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Cotton Candy Ice Blended</p>
+                                            <p>$4.00</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div py="6">
+                        <h2 variant="text.menuheading" pb="8">
+                            Teas
+                            </h2>
+                        <div width="90vw|500px" mx="auto">
+                            <p textAlign="center" variant="text.menuitem">
+                                Green Earl Grey • Tropical Green • Bombay Chai • Early Gray Lavender •
+                                English Breakfast • Sweet Ginger Peach • Dragon Eye Oolong • Honeybush
+                                Caramel • Golden Chamomile • Southern Mint
+                                </p>
+                        </div>
+                        <p textAlign="center" variant="text.menuitem" pt="6">
+                            $2.15
+                        </p>
                     </div>
                 </div>
             </section>
@@ -442,7 +606,7 @@ export default function Menupage() {
                             <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
                                 <div width="80%">
                                     <p textAlign="center">
-                                        Mango • Peach • Strawberry • Vanilla • Coconut • Raspberry • Blueberry
+                                        Mango • Peach • Strawberry • Vanilla • Raspberry • Blueberry
                                         • Cherry • Pomegranate
                                     </p>
                                 </div>
@@ -499,7 +663,7 @@ export default function Menupage() {
                     <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
                         <div width="80%">
                             <p textAlign="center">
-                                Challah • German Pretzels • Sourdough • French Baguette • French Loaf • German Rye • Multigrain • Whole Wheat
+                                Challah • Sourdough • French Baguette • French Loaf • German Rye • Multigrain • Whole Wheat
                         </p>
                         </div>
                     </div>
@@ -644,7 +808,7 @@ export default function Menupage() {
                     <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem" my="5rem">
                         <div width="80%" mx="auto">
                             <p textAlign="center" pb="8">
-                                Tres Leches • Parisienne • Lemon Merengue
+                                Mocha Tres Leches • Parisienne • Lemon Merengue
                             </p>
                             <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
                                 <div>
