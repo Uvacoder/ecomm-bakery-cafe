@@ -238,7 +238,7 @@ export default function Menupage() {
                             </div>
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                    <p>German Pretzels</p>
+                                    <p>German Pretzel</p>
                                     <p>$3.50</p>
                                 </div>
                             </div>
@@ -526,25 +526,25 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Vanilla Ice Blended</p>
-                                            <p>$3.50</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Cookies n Cream Ice Blended</p>
-                                            <p>$3.95</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Mocha Ice Blended</p>
-                                            <p>$3.75</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Cotton Candy Ice Blended</p>
-                                            <p>$4.00</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                 </div>
@@ -564,6 +564,14 @@ export default function Menupage() {
                         </div>
                         <p textAlign="center" variant="text.menuitem" pt="6">
                             $2.15
+                        </p>
+                        <div width="90vw|500px" mx="auto">
+                            <p textAlign="center" variant="text.menuitem">
+                                Iced Tea
+                                </p>
+                        </div>
+                        <p textAlign="center" variant="text.menuitem" pt="6">
+                            $2.95
                         </p>
                     </div>
                 </div>
