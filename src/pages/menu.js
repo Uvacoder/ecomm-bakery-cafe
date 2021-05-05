@@ -260,6 +260,12 @@ export default function Menupage() {
                                     <p>$4.50</p>
                                 </div>
                             </div>
+                            <div display="flex">
+                                <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                    <p>Cheese Sticks</p>
+                                    <p>$1.00</p>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -1178,7 +1184,7 @@ export default function Menupage() {
                                             <p>
                                                 6"
                                             </p>
-                                            <p>$18.95</p>
+                                            <p>$30.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1186,7 +1192,7 @@ export default function Menupage() {
                                             <p>
                                                 8"
                                             </p>
-                                            <p>$27.00</p>
+                                            <p>$38.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1194,7 +1200,7 @@ export default function Menupage() {
                                             <p>
                                                 10"
                                             </p>
-                                            <p>$32.95</p>
+                                            <p>$48.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1202,7 +1208,7 @@ export default function Menupage() {
                                             <p>
                                                 12"
                                             </p>
-                                            <p>$60.00</p>
+                                            <p>$66.00</p>
                                         </div>
                                     </div>
                                 </div>
