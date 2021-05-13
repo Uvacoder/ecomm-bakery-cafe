@@ -37,7 +37,7 @@ export default function IndexPage() {
       />
       <FeatureAlt
         subheading="Steeped In Tradition"
-        text="Emili's Café proudly serves the the finest ingredients from Europe."
+        text="Emili's Café proudly serves the finest ingredients from Europe."
         link="/about"
         linktext="About Emili's"
         image={{
