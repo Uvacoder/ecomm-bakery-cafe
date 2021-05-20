@@ -11,7 +11,7 @@ export default function ContactPage() {
                 subheading="Contact Us"
                 heading="Want to place an order or inquire about a custom cake? Fill out the form below:"
             />
-            <Form netlify
+            <form netlify
                 display="grid"
                 col="1|repeat(2, auto)"
                 gap="4"
@@ -65,7 +65,7 @@ export default function ContactPage() {
                 <button type="submit" variant="button.primary" colStart="span 2">
                     Send message
                 </button>
-            </Form>
+            </form>
         </Layout>
     )
 }
