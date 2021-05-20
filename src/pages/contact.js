@@ -2,7 +2,6 @@ import * as React from "react"
 
 import { Layout } from "../components"
 import InnerHero from "../blocks/innerhero"
-import Form from "../blocks/form"
 
 export default function ContactPage() {
     return (
@@ -12,7 +11,7 @@ export default function ContactPage() {
                 subheading="Contact Us"
                 heading="Want to place an order or inquire about a custom cake? Fill out the form below:"
             />
-            <form netlify
+            <Form netlify
                 display="grid"
                 col="1|repeat(2, auto)"
                 gap="4"
@@ -20,9 +19,6 @@ export default function ContactPage() {
                 w="full|auto"
             >
                 <div>
-                    <VisuallyHidden>
-                        <label htmlFor="name">Name</label>
-                    </VisuallyHidden>
                     <input
                         variant="input"
                         type="text"
@@ -32,9 +28,6 @@ export default function ContactPage() {
                     />
                 </div>
                 <div>
-                    <VisuallyHidden>
-                        <label htmlFor="email">Email</label>
-                    </VisuallyHidden>
                     <input
                         variant="input"
                         type="email"
@@ -44,9 +37,6 @@ export default function ContactPage() {
                     />
                 </div>
                 <div>
-                    <VisuallyHidden>
-                        <label htmlFor="phone">Phone</label>
-                    </VisuallyHidden>
                     <input
                         variant="input"
                         type="tel"
@@ -56,9 +46,6 @@ export default function ContactPage() {
                     />
                 </div>
                 <div>
-                    <VisuallyHidden>
-                        <label htmlFor="subject">Subject</label>
-                    </VisuallyHidden>
                     <select variant="select" id="subject" name="subject">
                         <option value="">Subject</option>
                         <option value="one">Online Order</option>
@@ -67,9 +54,6 @@ export default function ContactPage() {
                     </select>
                 </div>
                 <div colStart="span 2">
-                    <VisuallyHidden>
-                        <label htmlFor="message">Message</label>
-                    </VisuallyHidden>
                     <textarea
                         variant="textarea"
                         placeholder="Message"
@@ -81,7 +65,7 @@ export default function ContactPage() {
                 <button type="submit" variant="button.primary" colStart="span 2">
                     Send message
                 </button>
-            </form>
+            </Form>
         </Layout>
     )
 }
