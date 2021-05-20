@@ -814,7 +814,7 @@ export default function Menupage() {
                                             <p>
                                                 1/4 Sheet
                                             </p>
-                                            <p>$64.00</p>
+                                            <p>$85.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -879,31 +879,15 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
-                                                1/4 Sheet 2 Layer
+                                                1/4 Sheet
                                             </p>
-                                            <p>$54.00</p>
+                                            <p>$85.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
-                                                1/4 Sheet 3 Layer
-                                            </p>
-                                            <p>$68.00</p>
-                                        </div>
-                                    </div>
-                                    <div display="flex">
-                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                            <p>
-                                                1/2 Sheet 2 Layer
-                                            </p>
-                                            <p>$87.00</p>
-                                        </div>
-                                    </div>
-                                    <div display="flex">
-                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                            <p>
-                                                1/2 Sheet 3 Layer
+                                                1/2 Sheet
                                             </p>
                                             <p>$110.00</p>
                                         </div>
@@ -911,15 +895,7 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
-                                                Full Sheet 2 Layer
-                                            </p>
-                                            <p>$150.00</p>
-                                        </div>
-                                    </div>
-                                    <div display="flex">
-                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                            <p>
-                                                Full Sheet 3 Layer
+                                                Full Sheet
                                             </p>
                                             <p>$210.00</p>
                                         </div>
@@ -977,7 +953,7 @@ export default function Menupage() {
                                             <p>
                                                 1/4 Sheet
                                             </p>
-                                            <p>$66.00</p>
+                                            <p>$77.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1015,7 +991,7 @@ export default function Menupage() {
                                             <p>
                                                 6"
                                             </p>
-                                            <p>$31.00</p>
+                                            <p>$34.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1023,7 +999,7 @@ export default function Menupage() {
                                             <p>
                                                 8"
                                             </p>
-                                            <p>$41.00</p>
+                                            <p>$44.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1031,7 +1007,7 @@ export default function Menupage() {
                                             <p>
                                                 10"
                                             </p>
-                                            <p>$60.00</p>
+                                            <p>$62.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1047,7 +1023,7 @@ export default function Menupage() {
                                             <p>
                                                 1/4 Sheet
                                             </p>
-                                            <p>$65.00</p>
+                                            <p>$84.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1055,7 +1031,7 @@ export default function Menupage() {
                                             <p>
                                                 1/2 Sheet
                                             </p>
-                                            <p>$103.00</p>
+                                            <p>$108.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1082,7 +1058,7 @@ export default function Menupage() {
                                             <p>
                                                 8x8
                                             </p>
-                                            <p>$46.00</p>
+                                            <p>$48.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1090,7 +1066,7 @@ export default function Menupage() {
                                             <p>
                                                 1/4 Sheet
                                             </p>
-                                            <p>$62.00</p>
+                                            <p>$66.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1133,7 +1109,7 @@ export default function Menupage() {
                                             <p>
                                                 10"
                                             </p>
-                                            <p>$47.00</p>
+                                            <p>$52.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1141,7 +1117,7 @@ export default function Menupage() {
                                             <p>
                                                 12"
                                             </p>
-                                            <p>$61.00</p>
+                                            <p>$66.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1149,7 +1125,7 @@ export default function Menupage() {
                                             <p>
                                                 1/4 Sheet
                                             </p>
-                                            <p>$59.00</p>
+                                            <p>$74.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1157,7 +1133,7 @@ export default function Menupage() {
                                             <p>
                                                 1/2 Sheet
                                             </p>
-                                            <p>$92.00</p>
+                                            <p>$96.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1165,7 +1141,7 @@ export default function Menupage() {
                                             <p>
                                                 Full Sheet
                                             </p>
-                                            <p>$168.00</p>
+                                            <p>$175.00</p>
                                         </div>
                                     </div>
                                 </div>
@@ -1307,7 +1283,7 @@ export default function Menupage() {
                                             <p>
                                                 12"
                                             </p>
-                                            <p>$45.00</p>
+                                            <p>$48.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1315,7 +1291,7 @@ export default function Menupage() {
                                             <p>
                                                 15" x 8"
                                             </p>
-                                            <p>$55.00</p>
+                                            <p>$58.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -1323,7 +1299,7 @@ export default function Menupage() {
                                             <p>
                                                 16" x 12"
                                             </p>
-                                            <p>$84.00</p>
+                                            <p>$87.00</p>
                                         </div>
                                     </div>
                                     <div display="flex">
