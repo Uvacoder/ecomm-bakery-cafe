@@ -1266,11 +1266,6 @@ export default function Menupage() {
                                             <p>$26.00</p>
                                         </div>
                                     </div>
-                                    <div mt="8">
-                                        <p textAlign="center" fontSize="2xl|xl" color="primary">
-                                            <a href="/contact">*Inquire for additional sizes</a>
-                                        </p>
-                                    </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
@@ -1278,6 +1273,11 @@ export default function Menupage() {
                                             </p>
                                             <p>$36.00</p>
                                         </div>
+                                    </div>
+                                    <div mt="8">
+                                        <p textAlign="center" fontSize="2xl|xl" color="primary">
+                                            <a href="/contact">*Inquire for additional sizes</a>
+                                        </p>
                                     </div>
                                     {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
