@@ -793,7 +793,7 @@ export default function Menupage() {
                                             <p>$43.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -832,7 +832,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$220.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -860,7 +860,7 @@ export default function Menupage() {
                                             <p>$38.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -899,7 +899,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$210.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -932,7 +932,7 @@ export default function Menupage() {
                                             <p>$40.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -971,7 +971,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$205.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -1002,7 +1002,7 @@ export default function Menupage() {
                                             <p>$44.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -1041,7 +1041,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$205.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -1061,7 +1061,7 @@ export default function Menupage() {
                                             <p>$48.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 1/4 Sheet
@@ -1084,7 +1084,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$172.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -1104,7 +1104,7 @@ export default function Menupage() {
                                             <p>$38.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -1143,7 +1143,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$175.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -1171,7 +1171,7 @@ export default function Menupage() {
                                             <p>$38.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -1186,7 +1186,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$66.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -1226,14 +1226,14 @@ export default function Menupage() {
                                             <p>$32.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
                                             </p>
                                             <p>$38.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
@@ -1270,7 +1270,7 @@ export default function Menupage() {
                                             <p>$26.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -1317,7 +1317,7 @@ export default function Menupage() {
                                             </p>
                                             <p>$145.00</p>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </div>
                         </div>
