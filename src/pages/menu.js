@@ -1271,7 +1271,7 @@ export default function Menupage() {
                                             <a href="/contact">*Inquire for additional sizes</a>
                                         </p>
                                     </div>
-                                    {/* <div display="flex">
+                                    <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 10"
@@ -1279,7 +1279,7 @@ export default function Menupage() {
                                             <p>$36.00</p>
                                         </div>
                                     </div>
-                                    <div display="flex">
+                                    {/* <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
                                                 12"
