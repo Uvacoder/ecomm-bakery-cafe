@@ -260,12 +260,6 @@ export default function Menupage() {
                                     <p>$4.50</p>
                                 </div>
                             </div>
-                            <div display="flex">
-                                <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                    <p>Cheese Sticks</p>
-                                    <p>$1.00</p>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
@@ -1255,7 +1249,7 @@ export default function Menupage() {
                                             <p>
                                                 Individual
                                             </p>
-                                            <p>$5.75</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
