@@ -161,7 +161,7 @@ export default function Menupage() {
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Apple Strudel</p>
-                                    <p>$4.00</p>
+                                    <p>$4.75</p>
                                 </div>
                             </div>
                             <div display="flex">
@@ -208,7 +208,7 @@ export default function Menupage() {
                             </div>
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                    <p>Cinammon Raspberry Twist</p>
+                                    <p>Raspberry Walnut Twist</p>
                                     <p>$4.00</p>
                                 </div>
                             </div>
