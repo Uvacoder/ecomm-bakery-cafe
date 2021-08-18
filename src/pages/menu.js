@@ -64,8 +64,8 @@ export default function Menupage() {
                             </div>
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                    <p>Apple Round</p>
-                                    <p>$3.95</p>
+                                    <p>Apple Square</p>
+                                    <p>$4.50</p>
                                 </div>
                             </div>
                             <div display="flex">
