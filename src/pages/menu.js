@@ -949,10 +949,10 @@ export default function Menupage() {
                     <div display="grid" col="1" gap="4|8" justifyItems="center" my="5rem" variant="text.menuitem">
                         <div width="80%">
                             <p display="none|block" textAlign="center" pb="8">
-                                Strawberry Shortcake • Black Forest <br /> Grand Marnier • Banana Shortcake <br />Strawberry Banana Shortcake <br /> German Chocolate • Red Velvet
+                                Strawberry Shortcake • Banana Shortcake <br />Strawberry Banana Shortcake <br /> Black Forest • Grand Marnier • German Chocolate • Red Velvet
                             </p>
                             <p display="block|none" textAlign="center" pb="8">
-                                Strawberry Shortcake <br /> Black Forest • Grand Marnier • Banana Shortcake <br /> Strawberry Banana Shortcake <br /> German Chocolate • Red Velvet
+                                Strawberry Shortcake • Banana Shortcake <br /> Strawberry Banana Shortcake <br /> Black Forest • Grand Marnier • German Chocolate • Red Velvet
                             </p>
                             <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
                                 <div>
