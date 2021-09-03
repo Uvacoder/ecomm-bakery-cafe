@@ -2,8 +2,8 @@ import * as React from "react"
 import { Layout } from "../components"
 import InnerHero from "../blocks/innerhero"
 import Gallery from "react-photo-gallery";
-// import SimpleReactLightbox from 'simple-react-lightbox'
-// import { SRLWrapper } from "simple-react-lightbox";
+import SimpleReactLightbox from 'simple-react-lightbox'
+import { SRLWrapper } from "simple-react-lightbox";
 
 const photos = [
     {
@@ -260,15 +260,18 @@ export default function GalleryPage() {
                 subheading="Gallery"
                 heading=""
             />
-            {/* <SimpleReactLightbox> */}
+            <SimpleReactLightbox>
             <section pb="20">
                 <div variant="container">
-                    {/* <SRLWrapper options={options}> */}
-                    <Gallery photos={photos} direction={"column"} />
-                    {/* </SRLWrapper> */}
+                    <SRLWrapper options={options}>
+                        <Gallery
+                            photos={photos}
+                            direction={"column"}
+                        />
+                    </SRLWrapper>
                 </div>
             </section>
-            {/* </SimpleReactLightbox> */}
+            </SimpleReactLightbox>
         </Layout>
     )
 }
