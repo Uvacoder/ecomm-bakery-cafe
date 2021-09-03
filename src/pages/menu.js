@@ -59,7 +59,7 @@ export default function Menupage() {
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Almond Crescent</p>
-                                    <p>$3.95</p>
+                                    <p>$4.50</p>
                                 </div>
                             </div>
                             <div display="flex">
@@ -101,13 +101,13 @@ export default function Menupage() {
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Custard Raisin</p>
-                                    <p>$3.95</p>
+                                    <p>$4.25</p>
                                 </div>
                             </div>
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Nutella Cigar</p>
-                                    <p>$4.25</p>
+                                    <p>$4.50</p>
                                 </div>
                             </div>
                             <div display="flex">
@@ -173,7 +173,7 @@ export default function Menupage() {
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Apricot Cheese</p>
-                                    <p>$3.95</p>
+                                    <p>$4.50</p>
                                 </div>
                             </div>
                             <div display="flex">
@@ -203,13 +203,13 @@ export default function Menupage() {
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Cinammon Raisin Crisp</p>
-                                    <p>$3.95</p>
+                                    <p>$4.25</p>
                                 </div>
                             </div>
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
                                     <p>Raspberry Walnut Twist</p>
-                                    <p>$4.00</p>
+                                    <p>$4.50</p>
                                 </div>
                             </div>
                             <div display="flex">
@@ -244,8 +244,8 @@ export default function Menupage() {
                             </div>
                             <div display="flex">
                                 <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                    <p>Sugar Raisin</p>
-                                    <p>$3.95</p>
+                                    <p>Raisin Cross</p>
+                                    <p>$4.25</p>
                                 </div>
                             </div>
                             <div display="flex">
@@ -406,7 +406,7 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Café Americano</p>
-                                            <p>$3.75</p>
+                                            <p>$3.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -418,19 +418,19 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Latte</p>
-                                            <p>$4.25</p>
-                                        </div>
-                                    </div>
-                                    <div display="flex">
-                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                            <p>Mocha</p>
                                             <p>$4.75</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
+                                            <p>Mocha</p>
+                                            <p>$4.95</p>
+                                        </div>
+                                    </div>
+                                    <div display="flex">
+                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Macchiato</p>
-                                            <p>$4.25</p>
+                                            <p>$4.50</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -442,25 +442,25 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Cappuccino</p>
-                                            <p>$4.50</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Milky Way</p>
-                                            <p>$4.50</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Shot In The Dark</p>
-                                            <p>$4.50</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Weisse Kuh</p>
-                                            <p>$4.50</p>
+                                            <p>$4.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -493,13 +493,13 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Latte</p>
-                                            <p>$4.95</p>
+                                            <p>$5.75</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Mocha</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -511,19 +511,19 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Milky Way</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Shot In The Dark</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Weisse Kuh</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                 </div>
@@ -538,25 +538,25 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Vanilla Ice Blended</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Cookies n Cream Ice Blended</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Mocha Ice Blended</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Cotton Candy Ice Blended</p>
-                                            <p>$4.95</p>
+                                            <p>$5.95</p>
                                         </div>
                                     </div>
                                 </div>
@@ -575,7 +575,7 @@ export default function Menupage() {
                                 </p>
                         </div>
                         <p textAlign="center" variant="text.menuitem" pt="6">
-                            $2.15
+                            $2.50
                         </p>
                         <div width="90vw|500px" mx="auto">
                             <p textAlign="center" variant="text.menuitem">
@@ -872,8 +872,8 @@ export default function Menupage() {
                     <div display="grid" col="1" gap="4|8" justifyItems="center" my="5rem" variant="text.menuitem">
                         <div width="80%">
                             <p textAlign="center" pb="8">
-                                Carrot Cake • Chocolate Fudge • Raspberry Fudge <br /> German
-                                Chocolate • Tutti Frutti • Red Velvet
+                                Carrot Cake • Raspberry Fudge <br /> German
+                                Chocolate • Tutti Frutti
                             </p>
                             <div display="grid" col="2" gap="4|8" justifyItems="center" mx="auto" pb="6">
                                 <img width="40vw|300px" src="/images/tuttifrutti.png" alt="Tutti Frutti" />
@@ -949,21 +949,13 @@ export default function Menupage() {
                     <div display="grid" col="1" gap="4|8" justifyItems="center" my="5rem" variant="text.menuitem">
                         <div width="80%">
                             <p display="none|block" textAlign="center" pb="8">
-                                Strawberry Shortcake • Black Forest <br /> Grand Marnier • Banana Shortcake <br />Strawberry Banana Shortcake
+                                Strawberry Shortcake • Black Forest <br /> Grand Marnier • Banana Shortcake <br />Strawberry Banana Shortcake • German Chocolate • Red Velvet
                             </p>
                             <p display="block|none" textAlign="center" pb="8">
                                 Strawberry Shortcake <br /> Black Forest • Grand Marnier • Banana Shortcake <br /> Strawberry Banana Shortcake
                             </p>
                             <div display="grid" col="1" gap="4|8" justifyItems="center" variant="text.menuitem">
                                 <div>
-                                    <div display="flex">
-                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                            <p>
-                                                6"
-                                            </p>
-                                            <p>$34.00</p>
-                                        </div>
-                                    </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
@@ -1081,7 +1073,7 @@ export default function Menupage() {
                                             <p>
                                                 8"
                                             </p>
-                                            <p>$38.00</p>
+                                            <p>$39.00</p>
                                         </div>
                                     </div>
                                     <div mt="8">
@@ -1143,17 +1135,9 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>
-                                                6"
-                                            </p>
-                                            <p>$30.00</p>
-                                        </div>
-                                    </div>
-                                    <div display="flex">
-                                        <div display="flex" width="90vw|500px" justifyContent="space-between">
-                                            <p>
                                                 8"
                                             </p>
-                                            <p>$38.00</p>
+                                            <p>$42.00</p>
                                         </div>
                                     </div>
                                     <div mt="8">
