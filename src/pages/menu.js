@@ -499,7 +499,7 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Mocha</p>
-                                            <p>$5.95</p>
+                                            <p>$5.75</p>
                                         </div>
                                     </div>
                                     <div display="flex">
@@ -511,19 +511,19 @@ export default function Menupage() {
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Milky Way</p>
-                                            <p>$5.95</p>
+                                            <p>$5.75</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Shot In The Dark</p>
-                                            <p>$5.95</p>
+                                            <p>$5.75</p>
                                         </div>
                                     </div>
                                     <div display="flex">
                                         <div display="flex" width="90vw|500px" justifyContent="space-between">
                                             <p>Iced Weisse Kuh</p>
-                                            <p>$5.95</p>
+                                            <p>$5.75</p>
                                         </div>
                                     </div>
                                 </div>
