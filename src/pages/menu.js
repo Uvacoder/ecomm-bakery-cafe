@@ -872,8 +872,7 @@ export default function Menupage() {
                     <div display="grid" col="1" gap="4|8" justifyItems="center" my="5rem" variant="text.menuitem">
                         <div width="80%">
                             <p textAlign="center" pb="8">
-                                Carrot Cake • Raspberry Fudge <br /> German
-                                Chocolate • Tutti Frutti • Chocolate Fudge
+                                Carrot Cake • Raspberry Fudge <br /> Tutti Frutti • Chocolate Fudge
                             </p>
                             <div display="grid" col="2" gap="4|8" justifyItems="center" mx="auto" pb="6">
                                 <img width="40vw|300px" src="/images/tuttifrutti.png" alt="Tutti Frutti" />
