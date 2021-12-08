@@ -33,7 +33,7 @@ export function Footer({ name, copyright, links, iconLinks, children, ...props }
               <div>
                 <h3 variant="heading.h2" letterSpacing="1" fontFamily="headingLight" color="background" pb="1">Hours</h3>
                 <p fontSize="lg|xl" color="muted">
-                  Mon: 9am-5pm
+                  Mon: 9am-5pm <br />
                   Tue-Sat: 8am-7pm <br />
                   Sun: 9am-7pm <br />
                 </p>
